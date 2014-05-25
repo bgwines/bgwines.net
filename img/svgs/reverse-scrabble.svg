@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="reverse-scrabble.svg"
+   inkscape:export-filename="rev-scrabble.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3779"
+       is_visible="true"
+       pattern="M 0,0 0,10 10,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="290.08431"
+     inkscape:cy="467.42244"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3815"
+     showgrid="false"
+     inkscape:window-width="1219"
+     inkscape:window-height="802"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3815"
+       style="stroke:#2aa198;stroke-opacity:1">
+      <g
+         id="g3922"
+         inkscape:export-filename="/Users/brettwines/Desktop/Brett/bgwines.net/img/reverse-scrabble-magenta-asterisk.png"
+         inkscape:export-xdpi="1697.86"
+         inkscape:export-ydpi="1697.86">
+        <rect
+           style="fill:#2aa198;fill-opacity:0;fill-rule:evenodd;stroke:#d33682;stroke-width:22;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect2985"
+           width="300"
+           height="300"
+           x="188.57143"
+           y="309.50504"
+           ry="32.857155"
+           rx="31.428572" />
+        <g
+           style="stroke:#d33682;stroke-opacity:1"
+           id="g3799"
+           transform="matrix(0.66960602,0,0,0.70443667,145.98882,173.11012)">
+          <g
+             style="stroke:#d33682;stroke-opacity:1"
+             id="g3807"
+             transform="matrix(-0.19507762,-0.34631508,0.33788434,-0.19994511,417.18605,649.18858)">
+            <path
+               sodipodi:type="arc"
+               style="fill:#2aa198;fill-opacity:0;stroke:#d33682;stroke-width:22;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               id="path3771"
+               sodipodi:cx="202.0305"
+               sodipodi:cy="171.50917"
+               sodipodi:rx="90.913727"
+               sodipodi:ry="90.913727"
+               d="m 292.94423,171.50917 c 0,50.21027 -40.70346,90.91373 -90.91373,90.91373 -50.21026,0 -90.91372,-40.70346 -90.91372,-90.91373 0,-50.21026 40.70346,-90.913726 90.91372,-90.913726 14.48409,0 28.75856,3.460653 41.63454,10.093737"
+               sodipodi:start="0"
+               sodipodi:end="5.1880842"
+               sodipodi:open="true" />
+            <g
+               style="stroke:#d33682;stroke-opacity:1"
+               id="g3793"
+               transform="matrix(-0.50000001,0.86602541,-0.86602541,-0.50000001,594.38743,-89.878003)">
+              <g
+                 style="stroke:#d33682;stroke-opacity:1"
+                 id="g3789">
+                <path
+                   style="fill:#2aa16e;fill-opacity:0;stroke:#d33682;stroke-width:11.67966365999999923;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                   d="m 381.51949,144.40635 c -13.49468,-0.16329 -24.65098,-0.41879 -24.79177,-0.56781 -0.30297,-0.32061 25.46991,-48.97129 26.04537,-49.16501 0.35111,-0.1182 28.22392,49.20855 28.22392,49.94813 0,0.16529 -1.1119,0.25127 -2.47087,0.19106 -1.35899,-0.0602 -13.51197,-0.24308 -27.00665,-0.40637 z"
+                   id="path3783"
+                   inkscape:connector-curvature="0" />
+                <path
+                   style="fill:#2aa16e;fill-opacity:0;stroke:#d33682;stroke-width:15.71428584999999956;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                   d="m 377.54747,139.54224 -10.20248,-0.21957 2.41846,-4.44453 c 1.33015,-2.44449 4.93032,-9.17139 8.00037,-14.94865 3.07006,-5.77727 5.82387,-10.35459 6.11958,-10.17183 0.29572,0.18276 1.40635,1.85604 2.46808,3.71841 5.06528,8.88495 14.61275,26.08742 14.61275,26.329 0,0.14927 -2.97321,0.2006 -6.60714,0.11407 -3.63393,-0.0865 -11.19826,-0.25614 -16.80962,-0.3769 z"
+                   id="path3785"
+                   inkscape:connector-curvature="0" />
+              </g>
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3787"
+                 d="m 381.46522,127.57647 c 0.6557,-1.375 1.39453,-2.5 1.64187,-2.5 0.24733,0 0.98617,1.125 1.64186,2.5 l 1.19217,2.5 -2.83403,0 -2.83403,0 1.19216,-2.5 z"
+                 style="fill:#2aa16e;fill-opacity:0;stroke:#d33682;stroke-width:15.71428584999999956;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            </g>
+          </g>
+        </g>
+        <text
+           transform="scale(1.0514501,0.95106748)"
+           sodipodi:linespacing="125%"
+           id="text3851"
+           y="557.80865"
+           x="251.99297"
+           style="font-size:204.83306884999998942px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d33682;fill-opacity:1;stroke:#d33682;stroke-width:1;stroke-opacity:1;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="fill:#d33682;fill-opacity:1;stroke:#d33682;stroke-width:1;stroke-opacity:1"
+             y="557.80865"
+             x="251.99297"
+             id="tspan3853"
+             sodipodi:role="line">A</tspan></text>
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3863"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+           id="flowRegion3865"><rect
+             id="rect3867"
+             width="55.714287"
+             height="92.85714"
+             x="112.85714"
+             y="92.362183" /></flowRegion><flowPara
+           id="flowPara3869" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3871"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+           id="flowRegion3873"><rect
+             id="rect3875"
+             width="82.85714"
+             height="42.857143"
+             x="98.571426"
+             y="108.07647" /></flowRegion><flowPara
+           id="flowPara3877" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3879"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+           id="flowRegion3881"><rect
+             id="rect3883"
+             width="34.285713"
+             height="48.57143"
+             x="115.71429"
+             y="158.07646" /></flowRegion><flowPara
+           id="flowPara3885" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3887"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+           id="flowRegion3889"><rect
+             id="rect3891"
+             width="72.85714"
+             height="70"
+             x="40"
+             y="139.50504" /></flowRegion><flowPara
+           id="flowPara3893" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3895"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+           id="flowRegion3897"><rect
+             id="rect3899"
+             width="45.714283"
+             height="47.142849"
+             x="104.28571"
+             y="100.93361" /></flowRegion><flowPara
+           id="flowPara3901" /></flowRoot>      <path
+         sodipodi:type="star"
+         style="fill:#6c71c4;fill-opacity:1;stroke:#6c71c6;stroke-width:10.06099987;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3027"
+         sodipodi:sides="6"
+         sodipodi:cx="505.07626"
+         sodipodi:cy="302.82901"
+         sodipodi:r1="64.68132"
+         sodipodi:r2="0.64681321"
+         sodipodi:arg1="-0.25255428"
+         sodipodi:arg2="0.2710445"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 567.70572,286.66657 -62.00626,16.33562 44.68862,45.9843 -45.15019,-45.53119 -17.47927,61.69363 16.85607,-61.8668 -62.16788,15.70932 62.00625,-16.33562 -44.68861,-45.9843 45.15019,45.53119 17.47927,-61.69363 -16.85607,61.8668 z"
+         inkscape:transform-center-x="-0.2366469"
+         inkscape:transform-center-y="5.9469713"
+         transform="matrix(0.40971655,0.35525396,-0.40971656,0.35525396,442.51029,-8.5561512)"
+         inkscape:export-filename="/Users/brettwines/Desktop/Brett/bgwines.net/img/reverse-scrabble-magenta-asterisk.png"
+         inkscape:export-xdpi="1697.86"
+         inkscape:export-ydpi="1697.86" />
+    </g>
+  </g>
+</svg>

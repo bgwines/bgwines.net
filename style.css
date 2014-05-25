@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Source Code Pro Extra Light"; 
+    src:url("sources/fonts/SourceCodePro-ExtraLight.ttf") format("truetype");
+}
+
+h1 {color:#2aa198; font:29px Source Code Pro Extra Light}
+
+h2 {color:#268bd2; font:17px Source Code Pro Extra Light}
+
+.table_row_name{color:#b58900; font:15px Source Code Pro Extra Light}
+
+.projname{color:#839496; font:13px Source Code Pro Extra Light}
+
+.bigprojname{color:#839496; font:15px Source Code Pro Extra Light}
+
+.projdesc{color:#b58900; font:13px Source Code Pro Extra Light}
+
+.asterisk{color:#6c71c4; font:11px Source Code Pro Extra Light}
+
+.quineoutput{color:#839496; opacity:0.5; font:11px Source Code Pro Extra Light}
+
+table {
+		border-spacing: 70px 5;
+}

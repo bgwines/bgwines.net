@@ -1,0 +1,53 @@
+<html>
+<head>
+	<meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+	<title>
+		Brett Wines - Abstraction-finder
+	</title>
+	<link rel="stylesheet" type="text/css" href="../style.css" />
+</head>
+	<br><br><br><br><br>
+	<div align="center">
+		<a href="../index.html"><img src="../img/hands.png" alt="Recursion is beautiful." height="175" width="175"/></a>
+	</div>
+	<br>
+	<body bgcolor="#002b36">
+		<h1 align="center">
+			Brett Wines
+		</h1>
+		<h2 align="center">
+			bgwines@cs.stanford.edu
+		</h2>
+	<br><br><br><br><br>
+	<table>
+		<tr>
+			<td valign="top"><img src="../img/abstraction-finder-cleaner-magenta.png" alt="Abstraction-finder" height="150" width="150"/></td>
+			<td valign="top">
+				<div class="bigprojname" align="left">abstraction-finder</div>
+			</br>
+				<div class="projdesc" align="left">
+					abstraction-finder is a program to do static analysis on code. It takes in a file and represents the functions and function calls as - respectively - nodes and edges: a graph.
+
+					</br></br>
+					The main idea is that abstractions work by hiding implementation details -- here, the heuristic provided for abstraction-classification is if all the functions in the encapsulation don't call any functions but each other (except for library functions, here interpreted as functions not defined in the given file).
+
+					</br></br>
+					The code can handle recursion of arbitrary order, and finds cycles by an algorithm similar to Tarjan's algorithm. It then collapses the cycles before finding abstractable sets of functions.
+
+					</br></br>
+					Then, the algorithm finds sets of functions that don't call any other non-library functions through DFS.
+
+					</br></br>
+					Functions that don't call each other and don't have any children of any depth that call each other or the functions in question can also be bundled together; after all, they also fit our criteria. Thus, an exponential number of abstractions is possible (visualise a set where all functions are leaf-functions).
+
+					</br></br>
+					The point of the program is to execute the algorithm, not to do complicated parsing on the input file, so the parser is rather limited.
+
+					</br></br>
+					It's written in Python, in September 2013, and is located <a href="https://github.com/bgwines/abstraction-finder" style="color: 268bd2">here</a>.
+				</div>
+			</td>
+		</tr>
+	</table>
+	</body>
+</html>

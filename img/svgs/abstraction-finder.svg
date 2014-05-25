@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="abstraction-finder.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3862"
+       is_visible="true"
+       pattern="M 0,0 0,10 10,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3858"
+       is_visible="true"
+       pattern="M 0,0 0,10 10,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3854"
+       is_visible="true"
+       pattern="M 0,0 0,10 10,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3845"
+       is_visible="true"
+       pattern="M 0,0 0,10 10,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3841"
+       is_visible="true"
+       pattern="M 0,0 0,10 10,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.74978012"
+     inkscape:cx="324.03317"
+     inkscape:cy="600.8122"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1274"
+     inkscape:window-height="783"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2991"
+       transform="translate(-0.77685064,36.36549)"
+       inkscape:export-filename="/Users/brettwines/Desktop/abstraction-finder-cleaner-magenta-asterisk.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 614.28572,455.21933 c 0,134.12629 -110.01003,242.85713 -245.71428,242.85713 -135.70425,0 -245.71428,-108.73084 -245.71428,-242.85713 0,-134.12629 110.01003,-242.85713 245.71428,-242.85713 135.70425,0 245.71428,108.73084 245.71428,242.85713 z"
+         sodipodi:ry="242.85713"
+         sodipodi:rx="245.71428"
+         sodipodi:cy="455.21933"
+         sodipodi:cx="368.57144"
+         id="path2989"
+         style="fill:none;stroke:#d33682;stroke-width:22;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       id="path3770"
+       style="fill:none;stroke:#d33682;stroke-width:12.84806728;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 507.79461,524.01551 c 18.03038,1e-5 32.6495,-14.52116 32.64946,-32.4307 0,-17.90954 -14.61908,-32.43068 -32.64947,-32.43068 -18.03038,-1e-5 -32.64954,14.52115 -32.64951,32.43067 -2e-5,17.90956 14.6191,32.43072 32.64952,32.43071 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/brettwines/Desktop/abstraction-finder-cleaner-magenta-asterisk.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 227.79457,524.01552 c 18.03039,0 32.64951,-14.52115 32.64953,-32.4307 -10e-6,-17.90954 -14.61912,-32.43069 -32.64953,-32.4307 -18.03037,4e-5 -32.64948,14.52115 -32.64949,32.43069 1e-5,17.90957 14.61914,32.43072 32.64949,32.43071 z"
+       style="fill:none;stroke:#d33682;stroke-width:12.84806728;stroke-miterlimit:4;stroke-opacity:1"
+       id="path3987"
+       inkscape:export-filename="/Users/brettwines/Desktop/abstraction-finder-cleaner-magenta-asterisk.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/brettwines/Desktop/abstraction-finder-cleaner-magenta-asterisk.png"
+       inkscape:connector-curvature="0"
+       d="m 335.3639,631.58484 c -2e-5,18.0304 14.52115,32.64951 32.43069,32.64947 17.90956,0 32.4307,-14.61908 32.43069,-32.64945 10e-6,-18.0304 -14.52115,-32.64956 -32.43067,-32.64952 -17.90955,-3e-5 -32.43072,14.61909 -32.43071,32.6495 z"
+       style="fill:none;stroke:#d33682;stroke-width:12.84806728;stroke-miterlimit:4;stroke-opacity:1"
+       id="path3011" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/brettwines/Desktop/abstraction-finder-cleaner-magenta-asterisk.png"
+       id="path3013"
+       style="fill:none;stroke:#d33682;stroke-width:12.84806728;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 335.3639,351.58481 c -10e-6,18.03039 14.52115,32.64951 32.43069,32.64953 17.90954,-10e-6 32.4307,-14.61912 32.43071,-32.64952 -5e-5,-18.03038 -14.52116,-32.64949 -32.43069,-32.6495 -17.90959,1e-5 -32.43073,14.61914 -32.43071,32.64949 z"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g3819"
+       transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,46.271322,75.057572)"
+       inkscape:export-filename="/Users/brettwines/Desktop/abstraction-finder-cleaner-magenta-asterisk.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:type="star"
+         style="fill:#d33682;fill-opacity:1;stroke:none"
+         id="path3815"
+         sodipodi:sides="3"
+         sodipodi:cx="337.43225"
+         sodipodi:cy="126.75749"
+         sodipodi:r1="65.079735"
+         sodipodi:r2="32.539867"
+         sodipodi:arg1="0.7998899"
+         sodipodi:arg2="1.8470875"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 382.77888,173.43784 -54.22316,-15.37459 -54.22315,-15.3746 40.42637,-39.27133 40.42637,-39.271335 13.79678,54.645935 z"
+         inkscape:transform-center-x="-6.8336757"
+         inkscape:transform-center-y="-0.24274525"
+         transform="matrix(0.1115195,0.49729279,-0.41619648,0.13324919,322.90625,-6.8158005)" />
+      <rect
+         y="168.10295"
+         x="141.37479"
+         height="16.004688"
+         width="156.04576"
+         id="rect3817"
+         style="fill:#d33682;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0.5,0.86602541,-0.86602541,0.5,192.57956,72.894966)"
+       id="g3823"
+       inkscape:export-filename="/Users/brettwines/Desktop/abstraction-finder-cleaner-magenta-asterisk.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="matrix(0.1115195,0.49729279,-0.41619648,0.13324919,322.90625,-6.8158005)"
+         inkscape:transform-center-y="-0.24274525"
+         inkscape:transform-center-x="-6.8336757"
+         d="m 382.77888,173.43784 -54.22316,-15.37459 -54.22315,-15.3746 40.42637,-39.27133 40.42637,-39.271335 13.79678,54.645935 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.8470875"
+         sodipodi:arg1="0.7998899"
+         sodipodi:r2="32.539867"
+         sodipodi:r1="65.079735"
+         sodipodi:cy="126.75749"
+         sodipodi:cx="337.43225"
+         sodipodi:sides="3"
+         id="path3825"
+         style="fill:#d33682;fill-opacity:1;stroke:none"
+         sodipodi:type="star" />
+      <rect
+         style="fill:#d33682;fill-opacity:1;stroke:none"
+         id="rect3827"
+         width="156.04576"
+         height="16.004688"
+         x="141.37479"
+         y="168.10295" />
+    </g>
+    <g
+       id="g3841"
+       transform="translate(3.1625061,-4.918335)"
+       inkscape:export-filename="/Users/brettwines/Desktop/abstraction-finder-cleaner-magenta-asterisk.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:type="star"
+         style="fill:#d33682;fill-opacity:1;stroke:none"
+         id="path3837"
+         sodipodi:sides="3"
+         sodipodi:cx="337.43225"
+         sodipodi:cy="126.75749"
+         sodipodi:r1="65.079735"
+         sodipodi:r2="32.539867"
+         sodipodi:arg1="0.7998899"
+         sodipodi:arg2="1.8470875"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 382.77888,173.43784 -54.22316,-15.37459 -54.22315,-15.3746 40.42637,-39.27133 40.42637,-39.271335 13.79678,54.645935 z"
+         inkscape:transform-center-x="-76.165316"
+         inkscape:transform-center-y="-6.2718752"
+         transform="matrix(-0.15488706,0.25742895,-0.24658562,-0.13610589,398.1486,517.41997)" />
+      <rect
+         y="186.88864"
+         x="566.72034"
+         height="9.3831844"
+         width="64.113976"
+         id="rect3839"
+         style="fill:#d33682;fill-opacity:1;stroke:none"
+         inkscape:transform-center-x="-40.254334"
+         inkscape:transform-center-y="-43.914358"
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
+    </g>
+    <g
+       transform="translate(143.1625,-144.91833)"
+       id="g3845"
+       inkscape:export-filename="/Users/brettwines/Desktop/abstraction-finder-cleaner-magenta-asterisk.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="matrix(-0.15488706,0.25742895,-0.24658562,-0.13610589,398.1486,517.41997)"
+         inkscape:transform-center-y="-6.2718752"
+         inkscape:transform-center-x="-76.165316"
+         d="m 382.77888,173.43784 -54.22316,-15.37459 -54.22315,-15.3746 40.42637,-39.27133 40.42637,-39.271335 13.79678,54.645935 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.8470875"
+         sodipodi:arg1="0.7998899"
+         sodipodi:r2="32.539867"
+         sodipodi:r1="65.079735"
+         sodipodi:cy="126.75749"
+         sodipodi:cx="337.43225"
+         sodipodi:sides="3"
+         id="path3847"
+         style="fill:#d33682;fill-opacity:1;stroke:none"
+         sodipodi:type="star" />
+      <rect
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         inkscape:transform-center-y="-43.914358"
+         inkscape:transform-center-x="-40.254334"
+         style="fill:#d33682;fill-opacity:1;stroke:none"
+         id="rect3849"
+         width="64.113976"
+         height="9.3831844"
+         x="566.72034"
+         y="186.88864" />
+    </g>
+    <g
+       id="g3855"
+       transform="translate(-5.3230286,-1.4866333)"
+       inkscape:export-filename="/Users/brettwines/Desktop/abstraction-finder-cleaner-magenta-asterisk.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:type="star"
+         style="fill:#d33682;fill-opacity:1;stroke:none"
+         id="path3851"
+         sodipodi:sides="3"
+         sodipodi:cx="337.43225"
+         sodipodi:cy="126.75749"
+         sodipodi:r1="65.079735"
+         sodipodi:r2="32.539867"
+         sodipodi:arg1="0.7998899"
+         sodipodi:arg2="1.8470875"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 382.77888,173.43784 -54.22316,-15.37459 -54.22315,-15.3746 40.42637,-39.27133 40.42637,-39.271335 13.79678,54.645935 z"
+         inkscape:transform-center-x="6.2718776"
+         inkscape:transform-center-y="-76.165318"
+         transform="matrix(0.25742895,0.15488706,-0.1361059,0.24658563,394.03443,459.55502)" />
+      <rect
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+         y="706.12982"
+         x="-127.0144"
+         height="9.3831844"
+         width="64.113976"
+         id="rect3853"
+         style="fill:#d33682;fill-opacity:1;stroke:none"
+         inkscape:transform-center-x="43.914312"
+         inkscape:transform-center-y="-40.254369" />
+    </g>
+    <g
+       id="g3863"
+       transform="translate(-5.6781616,0)"
+       inkscape:export-filename="/Users/brettwines/Desktop/abstraction-finder-cleaner-magenta-asterisk.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:type="star"
+         style="fill:#d33682;fill-opacity:1;stroke:none"
+         id="path3859"
+         sodipodi:sides="3"
+         sodipodi:cx="337.43225"
+         sodipodi:cy="126.75749"
+         sodipodi:r1="65.079735"
+         sodipodi:r2="32.539867"
+         sodipodi:arg1="0.7998899"
+         sodipodi:arg2="1.8470875"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 382.77888,173.43784 -54.22316,-15.37459 -54.22315,-15.3746 40.42637,-39.27133 40.42637,-39.271335 13.79678,54.645935 z"
+         inkscape:transform-center-x="57.812674"
+         inkscape:transform-center-y="58.619803"
+         transform="matrix(-0.07250806,-0.29155145,0.27060378,-0.07812097,297.31667,599.72377)" />
+      <rect
+         transform="scale(-1,-1)"
+         y="-496.2764"
+         x="-458.02448"
+         height="9.3831844"
+         width="144.13744"
+         id="rect3861"
+         style="fill:#d33682;fill-opacity:1;stroke:none"
+         inkscape:transform-center-x="-5.8181627"
+         inkscape:transform-center-y="59.516141" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="fill:#cb4b16;fill-opacity:1;stroke:#6c71c4;stroke-width:10.06099986999999985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3012"
+       sodipodi:sides="6"
+       sodipodi:cx="582.83752"
+       sodipodi:cy="284.13696"
+       sodipodi:r1="62.69923"
+       sodipodi:r2="0.62699229"
+       sodipodi:arg1="-1.5495229"
+       sodipodi:arg2="-1.0259241"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 584.17125,221.45192 -1.00875,62.14884 54.62873,-29.65128 -54.32686,30.20082 52.99313,32.48423 -53.3181,-31.94803 -1.6356,62.13551 1.00875,-62.14885 -54.62873,29.65128 54.32685,-30.20081 -52.99312,-32.48423 53.3181,31.94803 z"
+       inkscape:transform-center-x="0.54812573"
+       inkscape:transform-center-y="-10.876763"
+       transform="matrix(0.82202421,0,0,0.72061327,122.44731,55.931422)"
+       inkscape:export-filename="/Users/brettwines/Desktop/abstraction-finder-cleaner-magenta-asterisk.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
