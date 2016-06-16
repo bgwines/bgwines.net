@@ -1,32 +1,62 @@
 <html>
 <head>
-	<meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
-	<title>
-		Brett Wines - Photography
-	</title>
-	<link rel="stylesheet" type="text/css" href="../style.css" />
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+    <title>Brett Wines - Photography</title>
+    <link rel="stylesheet" type="text/css" href="../style.css" />
 </head>
-	<br><br><br><br><br>
-	<div align="center">
-		<a href="../index.html"><img src="../img/hands.png" alt="Recursion is beautiful." height="175" width="175"/></a>
-	</div>
-	<br>
-	<body bgcolor="#002b36">
-		<h1 align="center">
-			Brett Wines
-		</h1>
-	<br><br><br><br><br>
-	<table>
-		<tr>
-			<td valign="top"><a href="../index.html"><img src="../img/hands.png" alt="Photography" height="150" width="150"/></a></td>
-			<td valign="top">
-				<div class="bigprojname" align="left">Photography</div>
-			</br>
-				<div class="projdesc" align="left">
-					* insert description here *
-				</div>
-			</td>
-		</tr>
-	</table>
-	</body>
+<body bgcolor="#002B36">
+    <div id="photoGalleryContainer" align="center"></div>
+        <!-- Load React and Babel transformer scripts -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.0.1/react.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.0.1/react-dom.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js"></script>
+
+        <!-- Load JSX file containing photo gallery component definitions -->
+        <script type="text/babel" src="PhotoGallery.jsx"></script>
+
+        <!-- Render the photo gallery into the container div -->
+        <script type="text/babel">
+            var photoURLs =
+            [ "images/13320481_987493747987069_3042494978965226634_o.jpg"
+            , "images/11899826_846753132061132_8950413190055776404_n.jpg"
+            , "images/13308446_987475741322203_922234642166666968_o.jpg"
+            , "images/12010673_862036743866104_4549086349160031289_o.jpg"
+            , "images/12052647_862036757199436_314687011424505607_o.jpg"
+            , "images/12068446_866731756729936_7310665866668058218_o.jpg"
+            , "images/12080012_862036760532769_248609949697329236_o.jpg"
+            , "images/1209405_520290538040728_293328514_n.jpg"
+            , "images/12184248_877959975607114_8002240307101486276_o.jpg"
+            , "images/1235262_520290634707385_2115591624_n.jpg"
+            , "images/12783815_930166213719823_1446189676253761459_o.jpg"
+            , "images/13301430_987486851321092_5439381136202846669_o.jpg"
+            , "images/13029682_964480146955096_6324428644337081933_o.jpg"
+            , "images/12901499_949022228500888_3534643491601285513_o.jpg"
+            , "images/13308563_987493801320397_2610808224124483758_o.jpg"
+            , "images/1003831_520290414707407_379702755_n.jpg"
+            , "images/163190_114174768652309_1919224_n.jpg"
+            , "images/11693990_825424337527345_7922294037168075006_n.jpg"
+            , "images/184568_411088532294263_618308819_n.jpg"
+            , "images/215871_141281525941633_673497_n.jpg"
+            , "images/224704_147092885360497_851710_n.jpg"
+            , "images/225016_147092835360502_9249_n.jpg"
+            , "images/227370_147092748693844_5334001_n.jpg"
+            , "images/228105_147092785360507_4636677_n.jpg"
+            , "images/228686_147092612027191_6390209_n.jpg"
+            , "images/230101_147092765360509_6623964_n.jpg"
+            , "images/261435_408768609192922_1861675439_n.jpg"
+            , "images/309180_406805116055938_637803569_n.jpg"
+            , "images/532514_409506865785763_861601064_n.jpg"
+            , "images/532758_299113110158473_53237116_n.jpg"
+            , "images/DSC07507.jpg"
+            , "images/DSC09580.jpg"
+            , "images/DSC09758.jpg"
+            , "images/DSC09775.jpg"
+            ];
+
+            ReactDOM.render(
+                <PhotoGallery photoURLs={photoURLs} />, document.getElementById('photoGalleryContainer')
+                );
+        </script>
+    </div>
+</body>
 </html>
